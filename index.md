@@ -40,25 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-    <div class="video-container">
-    <iframe src="https://www.youtube.com/watch?v=v4uwaw_5Q3I" frameborder="0" 
-    allowfullscreen> 
-    </iframe>
-    </div>
-    
-    
-        <div class="video-div-block">
-    <div class="video-row w-row">
-    <div class="column-5 w-col w-col-4">
-        <h2 class="heading-2 video">Video</h2>
 
-        <div style="padding-top:56.17021276595745%" class="w-video w-embed">
-        <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/4PSGaDSS8A4" frameborder="0" 
-        allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-        
-   </div>
-   </div>
-   
    <iframe width="560" height="315" src="https://www.youtube.com/embed/v4uwaw_5Q3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
