@@ -1,3 +1,1 @@
-title: lot
-layout: template
-filename: lot
+###Создание и изменение товаров
