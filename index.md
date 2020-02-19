@@ -2,9 +2,7 @@
 Сами вы его выбрали или его выбрали за вас — это лучший город из оставшихся. Я такого высокого мнения об Aqua Delivery, что решил разместить свое правительство здесь, в How-to, столь заботливо предоставленной GitHub. Я горжусь тем, что называю Aqua Delivery своим домом.
 Итак, собираетесь ли вы остаться здесь, или же вас ждут неизвестные дали, добро пожаловать в Aqua Delivery. Здесь безопасно.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[Создание и изменение товаров](https://supportaquadelivery.github.io/lot)
+# [Создание и изменение товаров](https://supportaquadelivery.github.io/lot)
 
 ### Markdown
 
